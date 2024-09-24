@@ -16,6 +16,7 @@ class _ConversionScreenState extends State<ConversionScreen> {
 
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: const Text('Advanced Exchanger'),
       ),
       body: Padding(
